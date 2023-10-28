@@ -1,10 +1,45 @@
 body{
-    font-family:Arial, Helvetica, sans-serif
+    font-family:"Lucida Console", "Courier New", monospace;
   }
 
 
-#two {
-    color: #0000ff;
-    font-size: 36px;
+#title {
+    background-color: yellow;
+    color: #02481b;
+    font-size: 70px;
+    font-weight: 1000;
+    text-align: center;
+  }
+
+
+ #subtitle {
+    background-color: yellowgreen;
+    color: #02481b;
+    font-size: 50px;
+    font-weight: 1000;
+    text-align: center;
+  }
+
+
+  #subtitle2 {
+    color: #21077d;
+    font-size: 25px;
     font-weight: 800;
   }
+
+
+  .recipes {
+    color: #c31a07;
+    font-size: 30px;
+    font-weight: 800;
+    font-family:Arial, Helvetica, sans-serif
+  }
+  
+   .fix.image {
+    height: auto;
+    width: 500px;  
+  }
+
+    
+
+ 
